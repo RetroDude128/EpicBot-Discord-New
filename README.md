@@ -1,2 +1,2 @@
 # bot-template
-Bot template
+Made from a template
